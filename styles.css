@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+*
+        {
+            width: 1100px;
+        }
+        td img{
+            width: 20px;
+        }
+        .first-col
+        {
+            width: 200px;
+        }
+        .mid-col
+        {
+            width: 600px;
+        }
+        .imgg
+        {
+            width: 600px;
+        }
